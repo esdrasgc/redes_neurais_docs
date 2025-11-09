@@ -1,7 +1,7 @@
 site_name: Entregas Redes Neurais 25.2 Esdras G. Carvalho
 site_author: Esdras G. Carvalho
-site_url: https://hsandmann.github.io/documentation.template
-repo_url: https://github.com/hsandmann/documentation.template
+site_url: https://esdrasgc.github.io/redes_neurais_docs
+repo_url: https://github.com/esdrasgc/redes_neurais_docs
 repo_name: github/redes_neurais_docs
 
 theme:
