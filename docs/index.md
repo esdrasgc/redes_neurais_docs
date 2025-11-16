@@ -17,4 +17,4 @@ Projetos:
 
 1. [Classification](https://esdrasgc.github.io/customer-churn-prediction-kaggle/)
 2. [Regression](https://linkolnr.github.io/china-real-state-regression-kaggle/)
-3. [Generative](): TODO
+3. [Generative](https://luccagkao.github.io/comfyui-experiment/)
